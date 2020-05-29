@@ -1,0 +1,3 @@
+﻿update login user online status
+update crypto save on user
+✓ add user link on pos transaction to get specific user with incomplete transactions

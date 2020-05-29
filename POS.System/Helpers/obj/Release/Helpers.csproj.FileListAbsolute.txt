@@ -1,0 +1,10 @@
+D:\PL\2019-2020\BulihanRMS\Helpers\obj\Release\Helpers.csprojResolveAssemblyReference.cache
+D:\PL\2019-2020\BulihanRMS\Helpers\bin\Release\Helpers.dll
+D:\PL\2019-2020\BulihanRMS\Helpers\bin\Release\Helpers.pdb
+D:\PL\2019-2020\BulihanRMS\Helpers\obj\Release\Helpers.dll
+D:\PL\2019-2020\BulihanRMS\Helpers\obj\Release\Helpers.pdb
+D:\PL\2019-2020\POS\POS.System\Helpers\bin\Release\Helpers.dll
+D:\PL\2019-2020\POS\POS.System\Helpers\bin\Release\Helpers.pdb
+D:\PL\2019-2020\POS\POS.System\Helpers\obj\Release\Helpers.dll
+D:\PL\2019-2020\POS\POS.System\Helpers\obj\Release\Helpers.pdb
+D:\PL\2019-2020\POS\POS.System\Helpers\obj\Release\Helpers.csprojResolveAssemblyReference.cache

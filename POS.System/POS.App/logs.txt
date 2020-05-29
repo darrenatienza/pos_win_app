@@ -1,0 +1,6 @@
+﻿change logs
+
+04/14/2020
+	* change current user name from first name to username on user login logic on line 34
+	bug was found on chat panel, after log out then login you can message on your self.
+	* create getallnotcurrentuser on userlogic class and user repo class and use by chat panel list. this removes the current user to show in list..

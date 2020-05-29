@@ -1,0 +1,5 @@
+D:\PL\2019-2020\BulihanRMS\Helpers\bin\Debug\Helpers.dll
+D:\PL\2019-2020\BulihanRMS\Helpers\bin\Debug\Helpers.pdb
+D:\PL\2019-2020\BulihanRMS\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+D:\PL\2019-2020\BulihanRMS\Helpers\obj\Debug\Helpers.dll
+D:\PL\2019-2020\BulihanRMS\Helpers\obj\Debug\Helpers.pdb

@@ -1,0 +1,17 @@
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\POS.Logic.dll.config
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\POS.Logic.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\POS.Logic.pdb
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\EntityFramework.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\EntityFramework.SqlServer.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\FluentValidation.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\Helpers.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\POS.Queries.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\SimpleCrypto.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\Helpers.pdb
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\POS.Queries.pdb
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\EntityFramework.xml
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\EntityFramework.SqlServer.xml
+D:\PL\2019-2020\POS\POS.System\POS.Logic\bin\Release\FluentValidation.xml
+D:\PL\2019-2020\POS\POS.System\POS.Logic\obj\Release\POS.Logic.csprojResolveAssemblyReference.cache
+D:\PL\2019-2020\POS\POS.System\POS.Logic\obj\Release\POS.Logic.dll
+D:\PL\2019-2020\POS\POS.System\POS.Logic\obj\Release\POS.Logic.pdb
